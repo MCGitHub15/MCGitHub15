@@ -42,6 +42,11 @@
 ### :fire: My Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MCGitHub15&theme=tokyonight-duo&mode=weekly)](https://git.io/streak-stats)
+
+<img src="https://raw.githubusercontent.com/MCGitHub15/MCGitHub15/output/snake.svg" alt="Snake animation" />
+
+###
+
 <!--
 **MCGitHub15/MCGitHub15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
