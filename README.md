@@ -1,14 +1,14 @@
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=MCGitHub15.MCGitHub15&"  />
+</div>
+
+###
+
 <h1>
   Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   What's up?
 </h1>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=MCGitHub15.MCGitHub15&"  />
-</div>
 
 ###
 
