@@ -43,8 +43,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MCGitHub15&theme=tokyonight-duo&mode=weekly)](https://git.io/streak-stats)
 
-<img src="https://raw.githubusercontent.com/MCGitHub15/MCGitHub15/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <!--
